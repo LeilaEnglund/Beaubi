@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Beaubi/static/css/main.363e29ca.chunk.css",
-    "main.js": "/Beaubi/static/js/main.a7300fa9.chunk.js",
-    "main.js.map": "/Beaubi/static/js/main.a7300fa9.chunk.js.map",
+    "main.css": "/Beaubi/static/css/main.edfa3908.chunk.css",
+    "main.js": "/Beaubi/static/js/main.7ef1ba81.chunk.js",
+    "main.js.map": "/Beaubi/static/js/main.7ef1ba81.chunk.js.map",
     "runtime~main.js": "/Beaubi/static/js/runtime~main.592a197f.js",
     "runtime~main.js.map": "/Beaubi/static/js/runtime~main.592a197f.js.map",
     "static/js/2.10bc15b0.chunk.js": "/Beaubi/static/js/2.10bc15b0.chunk.js",
     "static/js/2.10bc15b0.chunk.js.map": "/Beaubi/static/js/2.10bc15b0.chunk.js.map",
     "index.html": "/Beaubi/index.html",
-    "precache-manifest.872f7bcfd729fe58689f5a4e75863422.js": "/Beaubi/precache-manifest.872f7bcfd729fe58689f5a4e75863422.js",
+    "precache-manifest.c958ebbfab82eaee5f017b116c20f87f.js": "/Beaubi/precache-manifest.c958ebbfab82eaee5f017b116c20f87f.js",
     "service-worker.js": "/Beaubi/service-worker.js",
-    "static/css/main.363e29ca.chunk.css.map": "/Beaubi/static/css/main.363e29ca.chunk.css.map"
+    "static/css/main.edfa3908.chunk.css.map": "/Beaubi/static/css/main.edfa3908.chunk.css.map"
   }
 }
