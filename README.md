@@ -2,4 +2,4 @@ Enter the webpage and fill the form, you can then see the submitted values into 
 
 https://leilaenglund.github.io/Beaubi/ 
 
-https://docs.google.com/spreadsheets/d/1ns2yF3uMJKUY7bup30CfKS_BZS0fvvGg9XyazIY0SWE/edit#gid=0
+https://docs.google.com/spreadsheets/d/1Gk2Ep1A6UFPF4bNTxZTcT5-n0-jhJLn2gPGluMrWAO0/edit#gid=0
