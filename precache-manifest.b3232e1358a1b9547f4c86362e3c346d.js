@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "66e66a0edbf1e908e8a47dd4519fd482",
+    "revision": "2384d5334a9dbc40825b8883f9c2eef9",
     "url": "/Beaubi/index.html"
   },
   {
-    "revision": "89e41b6c0586c065e287",
+    "revision": "e2616c061742ae146082",
     "url": "/Beaubi/static/css/main.edfa3908.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Beaubi/static/js/2.10bc15b0.chunk.js"
   },
   {
-    "revision": "89e41b6c0586c065e287",
-    "url": "/Beaubi/static/js/main.7ef1ba81.chunk.js"
+    "revision": "e2616c061742ae146082",
+    "url": "/Beaubi/static/js/main.a2699461.chunk.js"
   },
   {
     "revision": "7d47c8369d2a9fee2ecb",
